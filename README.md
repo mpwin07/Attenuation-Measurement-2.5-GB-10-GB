@@ -65,20 +65,6 @@ Using the power budget equation and the parameters below, determine the attenuat
 
 ## Analysis and Report
 Compare simulation results with pre-lab calculations and record observations.  
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/c31bc4dc-6c7f-4869-aa05-558b3f4ea9f4" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/5a3c67a7-5e16-4e4c-83ad-08e27c85e001" />
 
-Your report should contain:
-- **Cover Page**
-  - Title of the lab  
-  - Course name and number  
-  - Your name  
-
-- **Pre-lab Calculations**  
-
-- **Screenshots** of layout and results (including eye diagrams)  
-
-- **Summary Table** for each simulation:
-  | Fiber Length (km) | Received Power (dBm) | Q Factor | BER |
-  |-------------------|-----------------------|----------|-----|
-  
-
-- **Written Summary** of observations and explanations of differences.  
